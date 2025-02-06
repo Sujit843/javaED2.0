@@ -4,27 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="" />
+    <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Constructor/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Encapsulation/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/GrandParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oops/recursion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Sujit843"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sujit843&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Sujit843/javaED2.0.git",
-    "accountId": "b920e36c-899f-4b5a-912f-caa2ac18fae1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sujit843/javaED2.0.git&quot;,
+    &quot;accountId&quot;: &quot;b920e36c-899f-4b5a-912f-caa2ac18fae1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,7 +63,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array.executor": "Run",
+    "Application.Check.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -55,5 +83,16 @@
       <updated>1738730959706</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
