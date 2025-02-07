@@ -1,4 +1,4 @@
-package Oops.recursion;
+package Recursion;
 
 public class Test {
     public static void main(String[] args) {

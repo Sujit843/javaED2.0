@@ -1,4 +1,4 @@
-package Oops.Inheritance.Humans;
+package JavaOops.Inheritance.Humans;
 
 public class Parent extends GrandParent{
 

@@ -1,4 +1,4 @@
-package Oops.Encapsulation;
+package JavaOops.Encapsulation;
 
 public class student {
     //class ke under two chij hoti he  properties  and behaviour

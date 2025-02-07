@@ -1,4 +1,4 @@
-package Oops.Inheritance.MultipleInheritance;
+package JavaOops.Inheritance.MultipleInheritance;
 public class SmartPhone{
 
 }

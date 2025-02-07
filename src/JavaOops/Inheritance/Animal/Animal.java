@@ -1,4 +1,4 @@
-package Oops.Inheritance.Animal;
+package JavaOops.Inheritance.Animal;
 
 public class Animal {
   private  String name ;

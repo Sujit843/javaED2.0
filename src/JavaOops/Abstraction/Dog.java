@@ -1,10 +1,10 @@
-package Oops.Inheritance.Animal;
+package JavaOops.Abstraction;
 
 public class Dog extends Animal {
 
-    // method overriding
+
     @Override
-    public void sayHello(){
+    public void sayHello() {
         System.out.println("Woof");
     }
 }

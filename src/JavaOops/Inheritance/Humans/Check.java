@@ -1,4 +1,4 @@
-package Oops.Inheritance.Humans;
+package JavaOops.Inheritance.Humans;
 
 public class Check {
     public static void main(String[] args) {
