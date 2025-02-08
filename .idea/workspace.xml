@@ -5,34 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Abstraction/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Abstraction/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Abstraction/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Abstraction/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Polymorphism/Screenshot (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOops/Polymorphism/Screenshot (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Default/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Private/Check/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Private/Check/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Private/School/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Protected/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Protected/Zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Protected/Zoo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Public/Check/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Public/School/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Screenshot (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Screenshot (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOops/Abstraction/Screenshot (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/StaticKeyword/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Encapsulation/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Encapsulation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Encapsulation/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Encapsulation/student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Animal/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/GrandParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/GrandParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/Humans/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Inheritance/MultipleInheritance/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/OOpsMethods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/OOpsMethods/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Overview/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Overview/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Overview/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Overview/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Overview/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Overview/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Overview/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Overview/cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/Overview/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops/Overview/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oops/recursion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +73,18 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/javaED2.0/src/Oops/Polymorphism&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/javaED2.0/src/AccessModifiers&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/javaED2.0/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Keywords.FinalKeyword.Vehicles" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\javaED2.0\src\AccessModifiers" />
+      <recent name="D:\code\javaED2.0\src\JavaOops\Abstraction" />
       <recent name="D:\code\javaED2.0\src\Oops\Polymorphism" />
     </key>
   </component>
