@@ -5,86 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Basics/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Basics/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadLifeCycle/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadMethod/Intrrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadMethod/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadMethod/SetPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadMethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/ThreadMethod/Yield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Screenshot (17).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum/Screenshot (19).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Example/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Example/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Example/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Finally/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (12).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (13).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (14).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/Throws/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/IndexBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/StackTrace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInJava/Screenshot (16).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInJava/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperClass/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperClass/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Default/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Default/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Private/Check/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Private/Check/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Private/Check/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Private/Check/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Private/School/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Private/School/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Protected/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Protected/Test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Protected/Zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Protected/Zoo/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Protected/Zoo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Protected/Zoo/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Public/Check/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Public/Check/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Public/School/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Public/School/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Screenshot (7).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Screenshot (7).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers/Screenshot (8).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/AccessModifiers/Screenshot (8).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Array/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bitwise/bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Bitwise/bitwise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Constructor/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constructor/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Constructor/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatype/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Datatype/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatype/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Datatype/method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatype/testString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Datatype/testString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Anonymous/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Anonymous/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Anonymous/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Anonymous/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Anonymous/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Anonymous/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Anonymous/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Anonymous/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Local/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Local/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Local/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Local/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Member/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Member/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/Member/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/Member/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/StaticNested/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/StaticNested/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InnerClasses/StaticNested/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/InnerClasses/StaticNested/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example2/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example2/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example2/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example2/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example2/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example2/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example2/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Example2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Example2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Screenshot (10).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Screenshot (10).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Screenshot (7).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Interfaces/Screenshot (7).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLoop/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/JavaLoop/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Abstraction/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Abstraction/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Abstraction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Abstraction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Abstraction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Abstraction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Abstraction/Screenshot (7).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Abstraction/Screenshot (7).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Abstraction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Abstraction/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Encapsulation/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Encapsulation/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Encapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Encapsulation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Encapsulation/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Encapsulation/student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Animal/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Animal/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Humans/Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Humans/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/GrandParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Humans/GrandParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/Humans/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/Humans/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/MultipleInheritance/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/MultipleInheritance/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/MultipleInheritance/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Inheritance/MultipleInheritance/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Inheritance/MultipleInheritance/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/OOpsMethods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/OOpsMethods/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Overview/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Overview/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Overview/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Overview/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Overview/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Overview/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Overview/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Overview/cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Overview/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Overview/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Polymorphism/Screenshot (4).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Polymorphism/Screenshot (4).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops/Polymorphism/Screenshot (6).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Polymorphism/Screenshot (6).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/FinalKeyword/Test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/FinalKeyword/Vehicles/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/FinalKeyword/Vehicles/Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/FinalKeyword/Vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/FinalKeyword/Vehicles/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/StaticKeyword/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/StaticKeyword/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/StaticKeyword/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/StaticKeyword/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keywords/StaticKeyword/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Keywords/StaticKeyword/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Recursion/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditional/condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/conditional/condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditional/logical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/conditional/logical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conditional/relational.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/conditional/relational.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -123,30 +72,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Check.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/javaED2.0/src/Interfaces&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/javaED2.0/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Check.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.IndexBound.executor": "Run",
+    "Application.Intrrupt.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.SetPriority.executor": "Run",
+    "Application.StackTrace.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Yield.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/javaED2.0/src/CoreJava7/Multithreading/Basics",
+    "onboarding.tips.debug.path": "D:/code/javaED2.0/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Keywords.FinalKeyword.Vehicles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\javaED2.0\src\Interfaces" />
-      <recent name="D:\code\javaED2.0\src\AccessModifiers" />
-      <recent name="D:\code\javaED2.0\src\JavaOops\Abstraction" />
-      <recent name="D:\code\javaED2.0\src\Oops\Polymorphism" />
+      <recent name="D:\code\javaED2.0\src\CoreJava7\Multithreading\Basics" />
+      <recent name="D:\code\javaED2.0\src\Enum" />
+      <recent name="D:\code\javaED2.0\src\MathInJava" />
+      <recent name="D:\code\javaED2.0\src\WrapperClass" />
+      <recent name="D:\code\javaED2.0\src\ExceptionsInJava" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CoreJava7.Multithreading.Basics" />
+      <recent name="CoreJava7.Multithreading" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
