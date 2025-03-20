@@ -1,4 +1,4 @@
-package ExceptionsInJava.Example;
+package CoreJava7.ExceptionsInJava.Example;
 
 public class BankAccount {
 

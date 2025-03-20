@@ -1,4 +1,4 @@
-package ExceptionsInJava.TryCatch;
+package CoreJava7.ExceptionsInJava.TryCatch;
 
 public class IndexBound {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Enum;
+package CoreJava7.Enum;
 
 public class Main {
     public static void main(String[] args) {

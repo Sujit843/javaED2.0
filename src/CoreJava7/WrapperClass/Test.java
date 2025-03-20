@@ -1,4 +1,4 @@
-package WrapperClass;
+package CoreJava7.WrapperClass;
 
 import java.util.ArrayList;
 import java.util.List;

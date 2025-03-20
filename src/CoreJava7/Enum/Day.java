@@ -1,4 +1,4 @@
-package Enum;
+package CoreJava7.Enum;
 
 public enum Day {
 

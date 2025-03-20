@@ -1,4 +1,4 @@
-package ExceptionsInJava.Throws;
+package CoreJava7.ExceptionsInJava.Throws;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

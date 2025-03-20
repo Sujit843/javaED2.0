@@ -1,4 +1,4 @@
-package ExceptionsInJava.Example;
+package CoreJava7.ExceptionsInJava.Example;
 
 // Agar apko koi custom esception banana ho to
 // extends karana he exception ko

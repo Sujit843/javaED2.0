@@ -1,4 +1,4 @@
-package MathInJava;
+package CoreJava7.MathInJava;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package WrapperClass;
+package CoreJava7.WrapperClass;
 
 public class Example {
     public static void main(String[] args) {

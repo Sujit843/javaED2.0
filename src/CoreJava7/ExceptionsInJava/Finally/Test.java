@@ -1,6 +1,4 @@
-package ExceptionsInJava.Finally;
-
-import org.w3c.dom.ls.LSOutput;
+package CoreJava7.ExceptionsInJava.Finally;
 
 public class Test {
     public static void main(String[] args) {
