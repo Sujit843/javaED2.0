@@ -5,44 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/LamdaExpression/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Notes/Screenshot (22).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Notes/Screenshot (23).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Notes/Screenshot (24).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Notes/Screenshot (27).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Notes/Screenshot (28).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Locks/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Locks/FairLockExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Locks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Locks/ReadWriteCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Locks/ReentrantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CoreJava7/Multithreading/Synchronization/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Screenshot (32).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Screenshot (33).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Screenshot (35).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Callable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Callable/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Future_Method/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Shutdown_Method/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Bounded_type_Parameter/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Bounded_type_Parameter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generics_In_Enum/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Generics_Method/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Interface/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Interface/GenericContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Multiple_Generics_Type/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Multiple_Generics_Type/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Safety_Issue/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Safety_Issue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/WildCard_In_Generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Volatile_And_Atomic_Thread/Atomic/VolatileCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Volatile_And_Atomic_Thread/Volatile/VolatileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Enum/Day.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Enum/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/Screenshot (17).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Enum/Screenshot (17).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/Screenshot (19).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/Enum/Screenshot (19).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Example/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Example/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Example/InsufficientFundsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Example/InsufficientFundsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Example/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Example/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Finally/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Finally/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (12).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Screenshot (12).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (13).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Screenshot (13).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Screenshot (14).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Screenshot (14).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/Throws/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/Throws/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/IndexBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/TryCatch/IndexBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/StackTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/TryCatch/StackTrace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionsInJava/TryCatch/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/ExceptionsInJava/TryCatch/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInJava/Screenshot (16).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/MathInJava/Screenshot (16).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInJava/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/MathInJava/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrapperClass/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/WrapperClass/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrapperClass/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoreJava7/WrapperClass/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExecutersFramework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecutersFramework/Executor/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +79,10 @@
     "Application.SetPriority.executor": "Run",
     "Application.StackTrace.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Text.executor": "Run",
     "Application.UnfairLockExample.executor": "Run",
+    "Application.VolatileCounter.executor": "Run",
+    "Application.VolatileExample.executor": "Run",
     "Application.Yield.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
