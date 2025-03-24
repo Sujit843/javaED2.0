@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Callable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Callable/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Future_Method/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/Shutdown_Method/Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Bounded_type_Parameter/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Bounded_type_Parameter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Generics_In_Enum/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Generics_Method/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Interface/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Interface/GenericContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Multiple_Generics_Type/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Multiple_Generics_Type/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Safety_Issue/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Safety_Issue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/WildCard_In_Generics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Volatile_And_Atomic_Thread/Atomic/VolatileCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Volatile_And_Atomic_Thread/Volatile/VolatileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/ArrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CompletableFuture/CF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CountDownLatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CountDownLatch/dependentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExecutersFramework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecutersFramework/Executor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array.executor": "Run",
+    "Application.CF.executor": "Run",
     "Application.Check.executor": "Run",
     "Application.Example.executor": "Run",
     "Application.FairLockExample.executor": "Run",
@@ -96,6 +83,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ExecutersFramework.CountDownLatch" />
       <recent name="Keywords.FinalKeyword.Vehicles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -104,6 +92,9 @@
       <recent name="D:\code\javaED2.0\src\CoreJava7\Multithreading\Basics" />
       <recent name="D:\code\javaED2.0\src\Enum" />
       <recent name="D:\code\javaED2.0\src\MathInJava" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ExecutersFramework.CountDownLatch" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="CoreJava7.Multithreading.Basics" />
