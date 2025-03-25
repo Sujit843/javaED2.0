@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/ArrayList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CompletableFuture/CF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CountDownLatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExecutersFramework/CountDownLatch/dependentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/ArrayList/Screenshot (42).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/ArrayList/Screenshot (43).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/ArrayList/Screenshot (44).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/CopyWriteArray/Screenshot (52).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/CopyWriteArray/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/LinkedList/Screenshot (45).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/LinkedList/Screenshot (46).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/LinkedList/Screenshot (47).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/LinkedList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Stack/stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/Screenshot (48).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/Screenshot (49).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/Screenshot (50).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/Screenshot (51).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/List/Vector/VectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/HashMap/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Screenshot (41).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExecutersFramework/ScheduledExecuterService/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +73,7 @@
     "Application.IndexBound.executor": "Run",
     "Application.Intrrupt.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Map.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.ReadWriteCounter.executor": "Run",
     "Application.ReentrantExample.executor": "Run",
@@ -68,15 +82,17 @@
     "Application.Test.executor": "Run",
     "Application.Text.executor": "Run",
     "Application.UnfairLockExample.executor": "Run",
+    "Application.VectorDemo.executor": "Run",
     "Application.VolatileCounter.executor": "Run",
     "Application.VolatileExample.executor": "Run",
     "Application.Yield.executor": "Run",
+    "Application.stack.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/javaED2.0/src/CoreJava7/Multithreading/Notes",
+    "last_opened_file_path": "D:/code/javaED2.0/src/Collection_Framework/List/CopyWriteArray",
     "onboarding.tips.debug.path": "D:/code/javaED2.0/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -87,11 +103,11 @@
       <recent name="Keywords.FinalKeyword.Vehicles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\javaED2.0\src\CoreJava7\Multithreading\Notes" />
-      <recent name="D:\code\javaED2.0\src\ExecutersFramework" />
-      <recent name="D:\code\javaED2.0\src\CoreJava7\Multithreading\Basics" />
-      <recent name="D:\code\javaED2.0\src\Enum" />
-      <recent name="D:\code\javaED2.0\src\MathInJava" />
+      <recent name="D:\code\javaED2.0\src\Collection_Framework\List\CopyWriteArray" />
+      <recent name="D:\code\javaED2.0\src\Collection_Framework\List\Vector" />
+      <recent name="D:\code\javaED2.0\src\Collection_Framework\List\LinkedList" />
+      <recent name="D:\code\javaED2.0\src\Collection_Framework\List\ArrayList" />
+      <recent name="D:\code\javaED2.0\src\Collection_Framework" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ExecutersFramework.CountDownLatch" />
