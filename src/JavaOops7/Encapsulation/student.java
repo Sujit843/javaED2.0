@@ -36,6 +36,10 @@ public int  getAge (){
     return age ;
 }
 
+    public double gpa() {
+        return 0;
+    }
+
 
     /*
     public static void main(String[] args) {
