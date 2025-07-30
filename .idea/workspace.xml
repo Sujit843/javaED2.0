@@ -5,30 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b792025-e367-4935-890c-ef9266639fb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/Comparable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/EnumMap/EnumMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/Garbage_Collection/GC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/HashTable/HashTableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/IdentityHashMap/IdentityHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/ImmuutableMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/Internal_StructureOf_HashMap/HashCodeAndEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/Internal_StructureOf_HashMap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/LinkedHashMap/LRU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/LinkedHashMap/LinkedHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/SortedMap/SortedMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/WeakHashMap/WeakHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Queue/ConcurrentLinkedQueue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Queue/Deque/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Queue/PriorityQueue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Queue/QeuueDemo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Queue/SynchronizedQueue/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Set/CopyOnWriteArraySet/CopyOnWriteArraySetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Set/UnorderedSet/SetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBuilder_StringBuffer/Screenshot (70).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringBuilder_StringBuffer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection_Framework/Iterator/iteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/CombinedExample/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Consumer/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Function/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8/Predicate/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection_Framework/Map/HashMap/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection_Framework/Map/HashMap/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOops7/Encapsulation/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOops7/Encapsulation/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +22,7 @@
       <list>
         <option value="Interface" />
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -68,49 +51,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.executor": "Run",
-    "Application.CF.executor": "Run",
-    "Application.Check.executor": "Run",
-    "Application.CopyOnWriteArraySetDemo.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.EnumMapDemo.executor": "Run",
-    "Application.Example.executor": "Run",
-    "Application.FairLockExample.executor": "Run",
-    "Application.GC.executor": "Run",
-    "Application.HashTableDemo.executor": "Run",
-    "Application.IdentityHashMapDemo.executor": "Run",
-    "Application.IndexBound.executor": "Run",
-    "Application.Intrrupt.executor": "Run",
-    "Application.LinkedHashMapDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Map.executor": "Run",
-    "Application.MyThread.executor": "Run",
-    "Application.ReadWriteCounter.executor": "Run",
-    "Application.ReentrantExample.executor": "Run",
-    "Application.SetDemo.executor": "Run",
-    "Application.SetPriority.executor": "Run",
-    "Application.SortedMapDemo.executor": "Run",
-    "Application.StackTrace.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Text.executor": "Run",
-    "Application.UnfairLockExample.executor": "Run",
-    "Application.VectorDemo.executor": "Run",
-    "Application.VolatileCounter.executor": "Run",
-    "Application.VolatileExample.executor": "Run",
-    "Application.Yield.executor": "Run",
-    "Application.stack.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/javaED2.0/src/StringBuilder_StringBuffer",
-    "onboarding.tips.debug.path": "D:/code/javaED2.0/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Check.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArraySetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnumMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FairLockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IdentityHashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intrrupt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadWriteCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReentrantExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetPriority.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackTrace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Text.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnfairLockExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileCounter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Yield.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/javaED2.0/src/StringBuilder_StringBuffer&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/code/javaED2.0/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ExecutersFramework.CountDownLatch" />
