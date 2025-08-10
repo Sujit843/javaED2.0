@@ -39,5 +39,7 @@ Version Control: Git & GitHub
 -Building small Java projects
 
 Author: Sujit Kumar
+
 📧 Contact: [sujitkrs92037@gmail.com]
+
 📍 Mangalmay Institute of Engineering and Technology, CSE 3rd Year
